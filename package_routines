@@ -105,8 +105,6 @@
 ######################################################################
 #PKG_PRE_REMOVE="{
 
-#/etc/init.d/sort-my-qpkgs.sh remove
-
 #}"
 ######################################################################
 # Define any package specific operations that shall be performed when
